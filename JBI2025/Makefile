@@ -1,13 +1,14 @@
-# Makefile for compiling main.tex with figures in figures/ folder and .sty files in common/ folder
+# Makefile for compiling main.tex with figures in FIGDIR folder and .sty files in STYDIR folder
 
 MAIN=JBI2025_FEEC
 
 FIGDIR=figures
-STYDIR=common
+STYDIR=./
 
 all: $(MAIN).pdf
 
 $(MAIN).pdf: $(MAIN).tex $(wildcard $(FIGDIR)/*) $(wildcard $(STYDIR)/*.sty)
+	export TEXINPUTS=.//:
 	latexmk -pdf $(MAIN).tex
 
 clean:

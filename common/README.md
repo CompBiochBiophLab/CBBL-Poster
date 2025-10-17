@@ -18,7 +18,7 @@ Put this near the top of your poster document to use the theme in the same folde
 
 ```latex
 \documentclass[final]{beamer}
-\usetheme{ImperialPoster} % or the CBBL alias if provided by the styles in this folder
+\usetheme{CBBLPoster} % 
 \begin{document}
 \begin{frame}
   Poster content here
