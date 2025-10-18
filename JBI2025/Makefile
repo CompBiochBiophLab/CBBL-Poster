@@ -2,7 +2,7 @@
 
 MAIN=JBI2025_FEEC
 
-FIGDIR=figures
+FIGDIR=./figures
 STYDIR=./
 
 all: $(MAIN).pdf

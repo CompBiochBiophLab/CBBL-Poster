@@ -33,7 +33,7 @@
 
 \renewenvironment{figure}{%
   \refstepcounter{figure}%
-  {\usebeamerfont{block title}\usebeamercolor[fg]{block title}\MakeUppercase{\figurename}~\thefigure}\par\vskip.75ex
+  %{\usebeamerfont{block title}\usebeamercolor[fg]{block title}\MakeUppercase{\figurename}~\thefigure}\par\vskip.75ex
   \renewcommand\caption[1]{\par\small\raggedright\usebeamercolor[fg]{caption}##1}
 }{%
   \vspace*{\baselineskip}
@@ -74,7 +74,7 @@
   \texorpdfstring{\textsuperscript{#1}}{}%
 }
 
-\def\logo{UVIC-UCC-v3.png}
+\def\logo{UVIC-UCC-v4.png}
 
 \setbeamersize{text margin left=3em}
 \setbeamersize{text margin right=3em}
@@ -99,7 +99,7 @@
   \fi
   \begingroup\raggedright
   \null\begin{minipage}{\logowidth}
-  \includegraphics[width=\logowidth]{\logo}
+  \includegraphics[width=0.8\logowidth]{\logo}
   \end{minipage}\hfill\par
   \if@beamerposter@portrait\else\vspace*{-\baselineskip}\fi
   \hfill\begin{minipage}{\dimexpr\textwidth-\titleindent\relax}
@@ -118,7 +118,7 @@
 \setbeamertemplate{itemize subitem}{$\bullet$ }
 
 \setbeamertemplate{block begin}{%
-  \begin{beamercolorbox}[ht=2.5ex,dp=1ex]{block title}%
+  \begin{beamercolorbox}[ht=2.2ex,dp=1ex]{block title}%
     \usebeamerfont{block title}\MakeUppercase{\insertblocktitle}
   \end{beamercolorbox}%
   \usebeamerfont{block body}%

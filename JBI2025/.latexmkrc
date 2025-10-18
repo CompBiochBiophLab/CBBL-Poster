@@ -15,7 +15,7 @@ my $sep = ($^O =~ /MSWin32/i) ? ';' : ':';
 $ENV{'TEXINPUTS'} = $common_dir . $sep . ($ENV{'TEXINPUTS'} // '');
 
 # Build and auxiliary directories (keeps repo root clean)
-$out_dir = 'build';
+$out_dir = 'pdf';
 $aux_dir = 'build';
 
 # pdflatex command: write output to $out_dir
@@ -27,3 +27,5 @@ $biber  = 'biber %O %B';
 
 # Build mode: produce PDF
 $pdf_mode = 1;
+# ensure failure is clearly propagated
+$failure_cmd = 'echo "latexmk: build failed" 1>&2; exit 1';
