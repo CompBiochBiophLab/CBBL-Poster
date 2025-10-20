@@ -1,2 +1,16 @@
 build
 *.synctex.gz
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.nav
+*.snm
+*.vrb
+*.dvi
+*.bcf-SAVE-ERRORS
+*.run.xml
