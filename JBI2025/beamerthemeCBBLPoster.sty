@@ -57,7 +57,7 @@
 \newenvironment{sidefigure}{%
   \refstepcounter{figure}%
   \usebeamercolor{caption}%
-  {\usebeamerfont{block title}\usebeamercolor[fg]{block title}\MakeUppercase{\figurename}~\thefigure}\par\vskip.75ex
+  %{\usebeamerfont{block title}\usebeamercolor[fg]{block title}\MakeUppercase{\figurename}~\thefigure}\par\vskip.75ex
   \begin{tcolorbox}[%
   sidebyside, sidebyside align=top seam, empty,
   left=0pt, right=0pt, top=0pt, bottom=0pt, boxsep=0pt,
@@ -74,7 +74,15 @@
   \texorpdfstring{\textsuperscript{#1}}{}%
 }
 
-\def\logo{UVIC-UCC-v4.png}
+%\def\logo{UVIC-UCC-v4.png}
+\AtBeginDocument{%
+  \logo{%
+    \includegraphics[height=0.6cm]{UVIC-UCC-v4.png}%
+    \hspace{1em}%
+    \includegraphics[height=0.6cm]{iris-cc-logo.png}%
+  }%
+}
+
 
 \setbeamersize{text margin left=3em}
 \setbeamersize{text margin right=3em}
@@ -85,33 +93,27 @@
 \setbeamerfont{block title}{series=\mdseries,size=\large}
 
 \newcommand{\mainauthor}[1]{\texorpdfstring{\uline{#1}}{#1}}
-
 \renewcommand{\maketitle}{%
-  \newlength{\logowidth}
-  \newlength{\titleindent}
+  \begingroup
+  \begin{columns}[c,onlytextwidth] % 'c' centra verticalment el contingut de les columnes
+    % --- Columna esquerra: logos apilats ---
+    \begin{column}{0.15\textwidth} % ajusta amplada
+      \centering
+      \includegraphics[width=0.8\columnwidth]{UVIC-UCC-v4.png}\par
+      \vspace{1em}%
+      \includegraphics[width=0.8\textwidth]{iris-cc-logo.png}
+    \end{column}
 
-  \if@beamerposter@portrait
-    \setlength{\logowidth}{0.25\textwidth}
-    \setlength{\titleindent}{\dimexpr 0.5\logowidth+2em\relax}
-  \else
-    \setlength{\logowidth}{0.167\textwidth}
-    \setlength{\titleindent}{\dimexpr\logowidth+1em\relax}
-  \fi
-  \begingroup\raggedright
-  \null\begin{minipage}{\logowidth}
-  \includegraphics[width=0.8\logowidth]{\logo}
-  \end{minipage}\hfill\par
-  \if@beamerposter@portrait\else\vspace*{-\baselineskip}\fi
-  \hfill\begin{minipage}{\dimexpr\textwidth-\titleindent\relax}
-%   \vskip\baselineskip%
-  \raggedright%
-  {\usebeamerfont{title}\usebeamercolor[fg]{title}\MakeUppercase{\inserttitle}\par}
-%   \vskip1em
-  {\usebeamerfont{author}\usebeamercolor[fg]{author}\insertauthor\par}
-%   \vskip1em
-  {\usebeamerfont{institute}\usebeamercolor[fg]{institute}\insertinstitute\par}
-  \end{minipage}%
-\endgroup\vspace*{1.5\baselineskip}
+    % --- Columna dreta: títol / autor / institut ---
+    \begin{column}{0.85\textwidth} % ocupa la resta de la pàgina
+      {\usebeamerfont{title}\usebeamercolor[fg]{title}\inserttitle\par}
+      \vspace{0.5em}%
+      {\usebeamerfont{author}\usebeamercolor[fg]{author}\insertauthor\par}
+      {\usebeamerfont{institute}\usebeamercolor[fg]{institute}\insertinstitute\par}
+    \end{column}
+  \end{columns}
+  \endgroup
+  \vspace*{1.5\baselineskip}%
 }
 
 \setbeamertemplate{itemize item}{$\blacktriangleright\,$}
@@ -146,5 +148,3 @@
 
 \RequirePackage{silence}
 \WarningFilter{biblatex}{Patching footnotes}
-
-%\usecolortheme{CBBLWhite}

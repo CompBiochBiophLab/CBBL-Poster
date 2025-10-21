@@ -1,20 +1,20 @@
 # Fdb version 4
-["biber build/JBI2025_FEEC"] 1760809799.0065 "build/JBI2025_FEEC.bcf" "build/JBI2025_FEEC.bbl" "build/JBI2025_FEEC" 1760810236.06955 0
-  "JBI2025_FEEC.bib" 1760809796 2430 408e28fb92b0128dcaf49397dee384ed ""
-  "build/JBI2025_FEEC.bcf" 1760810235 108749 43f80e8e44250639254ead109079af52 "pdflatex"
+["biber build/JBI2025_FEEC"] 0 "build/JBI2025_FEEC.bcf" "build/JBI2025_FEEC.bbl" "build/JBI2025_FEEC" 1761019689.03233 -1
+  "JBI2025_FEEC.bib" 1761013627 2417 97c6aa6cead92c61bf687ff0701f02a5 ""
+  "build/JBI2025_FEEC.bcf" 1761019688 108749 43f80e8e44250639254ead109079af52 "pdflatex"
   (generated)
   "build/JBI2025_FEEC.bbl"
   "build/JBI2025_FEEC.blg"
   (rewritten before read)
-["pdflatex"] 1760810230.23527 "JBI2025_FEEC.tex" "pdf/JBI2025_FEEC.pdf" "JBI2025_FEEC" 1760810236.0723 0
-  "JBI2025_FEEC.tex" 1760810227 5742 d252549ae7106b1c2ffaec6fa9e70dd3 ""
-  "beamercolorthemeCBBLWhite.sty" 1760714021 340 e98ed32485b9425a3bbd8050e486a749 ""
-  "beamerthemeCBBLPoster.sty" 1760810152 5149 8df60346a10118236aa1e283b1013193 ""
-  "build/JBI2025_FEEC.aux" 1760810235 1324 5e4be466de96a69ebd6f609266c80269 "pdflatex"
-  "build/JBI2025_FEEC.bbl" 1760809801 10341 8dda33fc5ccd40cc355e0ace01def659 "biber build/JBI2025_FEEC"
-  "build/JBI2025_FEEC.nav" 1760810235 467 277c7a827c66523be6a675ee70e5e96b "pdflatex"
-  "build/JBI2025_FEEC.out" 1760810235 116 f867740414838bf534924841256fc694 "pdflatex"
-  "build/JBI2025_FEEC.run.xml" 1760810235 2403 165886056593507773be8a97c204f8d8 "pdflatex"
+["pdflatex"] 1761019685.28891 "JBI2025_FEEC.tex" "pdf/JBI2025_FEEC.pdf" "JBI2025_FEEC" 1761019689.03314 0
+  "JBI2025_FEEC.tex" 1761019682 6112 baaa5db6136ee5d64dfcc993809b3162 ""
+  "beamercolorthemeCBBLWhite.sty" 1761019262 373 2ac830ea3de2f4ad62e7e15daeb57a3d ""
+  "beamerthemeCBBLPoster.sty" 1761019370 5195 d3befb84fb0e81fd38b6894b72390c81 ""
+  "build/JBI2025_FEEC.aux" 1761019688 1324 0ae816e7c1911ea68652982fa56416e2 "pdflatex"
+  "build/JBI2025_FEEC.bbl" 1761017044 10328 961f4274b5a3b319fb357d236f2e211d "biber build/JBI2025_FEEC"
+  "build/JBI2025_FEEC.nav" 1761019688 467 277c7a827c66523be6a675ee70e5e96b "pdflatex"
+  "build/JBI2025_FEEC.out" 1761019688 116 f867740414838bf534924841256fc694 "pdflatex"
+  "build/JBI2025_FEEC.run.xml" 1761019688 2403 165886056593507773be8a97c204f8d8 "pdflatex"
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-0.enc" 1758803948 7631 5169ff1acd97ff1c4ab83563c99f96f4 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1758804929 2914 fdbc4a54b9bc76f4551b5303f2737d33 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc" 1758806350 2881 8e2aef9e38084b946e7656b60672fedb ""
@@ -307,9 +307,11 @@
   "c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1758807600 5574153 af86687748baf417d9e7d549313527be ""
   "c:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1758808327 3621777 535636702c8c188e6f635be60704b294 ""
   "c:/texlive/2025/texmf.cnf" 1758807557 713 e69b156964470283e0530f5060668171 ""
+  "figures/QR_CellReports2025.png" 1761013996 799 b8662293dfc4ab3ff21af0a7eb3b9a77 ""
   "figures/SOF_FEEC.jpg" 1760719744 1057755 c64272361825cc8e461cd12487e9fe78 ""
   "figures/SOF_summary.jpg" 1760719776 127159 c299beacf21d0f325a3fdb9b2ada295c ""
   "figures/UVIC-UCC-v4.png" 1760609026 15104 5e37c91dbc0d29f3c75454e5134618d7 ""
+  "figures/iris-cc-logo.png" 1761015430 5094 f3ad5f6b49137ba4df47b3ce4d869fae ""
   (generated)
   "build/JBI2025_FEEC.aux"
   "build/JBI2025_FEEC.bcf"

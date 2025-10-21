@@ -19,7 +19,7 @@ $out_dir = 'pdf';
 $aux_dir = 'build';
 
 # pdflatex command: write output to $out_dir
-$pdflatex = 'pdflatex -interaction=nonstopmode -file-line-error -synctex=1 -halt-on-error -output-directory=' . $out_dir . ' %O %S';
+$pdflatex = 'pdflatex -interaction=nonstopmode -file-line-error -synctex=1  -output-directory=' . $out_dir . ' %O %S';
 
 # Bib tool configuration: leave defaults (latexmk will choose bibtex or biber depending on files)
 $bibtex = 'bibtex %O %B';

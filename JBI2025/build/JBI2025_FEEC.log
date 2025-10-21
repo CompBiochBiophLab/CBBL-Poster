@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.9.25)  18 OCT 2025 19:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.9.25)  21 OCT 2025 06:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -802,7 +802,26 @@ Package beamerposter Info: fontscale=1.0, myfontscale=1.55 on input line 175.
 ( FP-ROUND ) ) ( FP-UPN ( FP-MUL ) ( FP-ROUND ) ) ( FP-UPN ( FP-MUL )
 ( FP-ROUND ) ) ( FP-UPN ( FP-MUL ) ( FP-ROUND ) ) ( FP-UPN ( FP-MUL )
 ( FP-ROUND ) ) ( FP-UPN ( FP-MUL ) ( FP-ROUND ) ) ( FP-UPN ( FP-MUL )
-( FP-ROUND ) )) (./beamerthemeCBBLPoster.sty
+( FP-ROUND ) )) (c:/texlive/2025/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box80
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(c:/texlive/2025/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
+y
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen305
+\pgf@nodesepend=\dimen306
+)
+(c:/texlive/2025/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
+y
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+)) (./beamerthemeCBBLPoster.sty
 (c:/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks50
@@ -859,20 +878,20 @@ Package: fontaxes 2025-05-24 v2.0.1 Font selection axes (deprecated)
 (c:/texlive/2025/texmf-dist/tex/latex/figureversions/figureversions.sty
 Package: figureversions 2025-04-29 v1.0.1 Figure versions
 ))
-\tx@sixem=\dimen305
-\tx@y=\dimen306
-\tx@x=\dimen307
-\tx@tmpdima=\dimen308
-\tx@tmpdimb=\dimen309
-\tx@tmpdimc=\dimen310
-\tx@tmpdimd=\dimen311
-\tx@tmpdime=\dimen312
-\tx@tmpdimf=\dimen313
-\tx@dimA=\dimen314
-\tx@dimAA=\dimen315
-\tx@dimB=\dimen316
-\tx@dimBB=\dimen317
-\tx@dimC=\dimen318
+\tx@sixem=\dimen307
+\tx@y=\dimen308
+\tx@x=\dimen309
+\tx@tmpdima=\dimen310
+\tx@tmpdimb=\dimen311
+\tx@tmpdimc=\dimen312
+\tx@tmpdimd=\dimen313
+\tx@tmpdime=\dimen314
+\tx@tmpdimf=\dimen315
+\tx@dimA=\dimen316
+\tx@dimAA=\dimen317
+\tx@dimB=\dimen318
+\tx@dimBB=\dimen319
+\tx@dimC=\dimen320
 LaTeX Info: Redefining \oldstylenums on input line 902.
 )
 (c:/texlive/2025/texmf-dist/tex/latex/newtxsf/newtxsf.sty
@@ -997,26 +1016,7 @@ Package: inconsolata 2019/05/17 v1.12
 \zifour@ocount=\count377
 )
 (c:/texlive/2025/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(c:/texlive/2025/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
-
-(c:/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfnodeparttextbox=\box80
-)
-(c:/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(c:/texlive/2025/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
-y
-Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@nodesepstart=\dimen319
-\pgf@nodesepend=\dimen320
-)
-(c:/texlive/2025/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
-y
-Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
-)) (c:/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(c:/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
 (c:/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
 \pgffor@iter=\dimen321
@@ -1420,94 +1420,94 @@ LaTeX Info: Redefining \GenericError on input line 601.
 (./beamercolorthemeCBBLWhite.sty)
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 29.
+(hyperref)                removing `math shift' on input line 31.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\kappa' on input line 29.
+(hyperref)                removing `\kappa' on input line 31.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 29.
+(hyperref)                removing `math shift' on input line 31.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 29.
+(hyperref)                removing `math shift' on input line 31.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\alpha' on input line 29.
+(hyperref)                removing `\alpha' on input line 31.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 29.
+(hyperref)                removing `math shift' on input line 31.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 29.
+(hyperref)                removing `math shift' on input line 31.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\kappa' on input line 29.
+(hyperref)                removing `\kappa' on input line 31.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 29.
+(hyperref)                removing `math shift' on input line 31.
 
 \@quotelevel=\count534
 \@quotereset=\count535
-LaTeX Font Info:    Trying to load font information for T1+qhv on input line 29
+LaTeX Font Info:    Trying to load font information for T1+qhv on input line 31
 .
 (c:/texlive/2025/texmf-dist/tex/latex/tex-gyre/t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 )
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 36.24649pt on input line 29.
+(Font)              scaled to size 36.24649pt on input line 31.
 
 (build/JBI2025_FEEC.aux)
 \openout1 = `JBI2025_FEEC.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxsfmi/m/it on input line 29.
+LaTeX Font Info:    Checking defaults for OML/ntxsfmi/m/it on input line 31.
 LaTeX Font Info:    Trying to load font information for OML+ntxsfmi on input li
-ne 29.
+ne 31.
 
 (c:/texlive/2025/texmf-dist/tex/latex/newtxsf/omlntxsfmi.fd
 File: omlntxsfmi.fd 2014/11/16 Fontinst v1.933 font definitions for OML/ntxsfmi
 .
 )
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 31.
 LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
-29.
+31.
 
 (c:/texlive/2025/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 31.
 LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
- 29.
+ 31.
 
 (c:/texlive/2025/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1565,54 +1565,54 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 29.
+Package hyperref Info: Link coloring OFF on input line 31.
 
 (build/JBI2025_FEEC.out) (build/JBI2025_FEEC.out)
 \@outlinefile=\write6
 \openout6 = `JBI2025_FEEC.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/minntx/m/n --> OT1/cmss/m/n on input line 29.
+(Font)                  OT1/minntx/m/n --> OT1/cmss/m/n on input line 31.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/minntx/b/n --> OT1/cmss/b/n on input line 29.
+(Font)                  OT1/minntx/b/n --> OT1/cmss/b/n on input line 31.
 \symnumbers=\mathgroup10
 \sympureletters=\mathgroup11
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/ntxtlf/m/n on input line 29.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 29.
+(Font)                  OT1/cmss/m/n --> T1/ntxtlf/m/n on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/minntx/b/n --> T1/qhv/b/n on input line 29.
+(Font)                  OT1/minntx/b/n --> T1/qhv/b/n on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/minntx/b/n --> T1/qhv/b/n on input line 29.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 29.
+(Font)                  OT1/minntx/b/n --> T1/qhv/b/n on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/qhv/m/n --> T1/qhv/m/n on input line 29.
+(Font)                  OT1/qhv/m/n --> T1/qhv/m/n on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/qhv/b/n --> T1/qhv/m/n on input line 29.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 29.
+(Font)                  OT1/qhv/b/n --> T1/qhv/m/n on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/minntx/m/it --> T1/qhv/m/it on input line 29.
+(Font)                  OT1/minntx/m/it --> T1/qhv/m/it on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/minntx/b/it --> T1/qhv/m/it on input line 29.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 29.
+(Font)                  OT1/minntx/b/it --> T1/qhv/m/it on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/ntxtt/m/n --> T1/zi4/m/n on input line 29.
+(Font)                  OT1/ntxtt/m/n --> T1/zi4/m/n on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/ntxtt/b/n --> T1/zi4/m/n on input line 29.
+(Font)                  OT1/ntxtt/b/n --> T1/zi4/m/n on input line 31.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/qhv/m/n --> T1/qhv/b/n on input line 29.
+(Font)                  T1/qhv/m/n --> T1/qhv/b/n on input line 31.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/qhv/m/it --> T1/qhv/b/it on input line 29.
+(Font)                  T1/qhv/m/it --> T1/qhv/b/it on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/ntxtlf/b/n on input line 29.
+(Font)                  OT1/cmss/b/n --> T1/ntxtlf/b/n on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/qhv/b/n --> T1/qhv/b/n on input line 29.
+(Font)                  T1/qhv/b/n --> T1/qhv/b/n on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/qhv/m/n --> T1/qhv/b/n on input line 29.
+(Font)                  T1/qhv/m/n --> T1/qhv/b/n on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/qhv/m/it --> T1/qhv/b/it on input line 29.
+(Font)                  T1/qhv/m/it --> T1/qhv/b/it on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/zi4/m/n --> T1/zi4/b/n on input line 29.
+(Font)                  T1/zi4/m/n --> T1/zi4/b/n on input line 31.
 
 (c:/texlive/2025/texmf-dist/tex/latex/translator/translator-basic-dictionary-En
 glish.dict
@@ -1638,8 +1638,8 @@ Dictionary: translator-numbers-dictionary, Language: English
 English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Command `\dddot' is already robust on input line 29.
-LaTeX Info: Command `\ddddot' is already robust on input line 29.
+LaTeX Info: Command `\dddot' is already robust on input line 31.
+LaTeX Info: Command `\ddddot' is already robust on input line 31.
 \c@mv@tabular=\count542
 \c@mv@boldtabular=\count543
  (c:/texlive/2025/texmf-dist/tex/latex/upquote/upquote.sty
@@ -1661,154 +1661,177 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'JBI2025_FEEC.bbl' found.
 
 (build/JBI2025_FEEC.bbl)
-Package biblatex Info: Reference section=0 on input line 29.
-Package biblatex Info: Reference segment=0 on input line 29.
+Package biblatex Info: Reference section=0 on input line 31.
+Package biblatex Info: Reference segment=0 on input line 31.
  (build/JBI2025_FEEC.nav)
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 17.48404pt on input line 29.
-\logowidth=\skip94
-\titleindent=\skip95
+(Font)              scaled to size 17.48404pt on input line 31.
 <./figures/UVIC-UCC-v4.png, id=17, 708.6475pt x 388.45125pt>
 File: ./figures/UVIC-UCC-v4.png Graphic file (type png)
 <use ./figures/UVIC-UCC-v4.png>
-Package pdftex.def Info: ./figures/UVIC-UCC-v4.png  used on input line 32.
-(pdftex.def)             Requested size: 440.04605pt x 241.21661pt.
-LaTeX Font Info:    Calculating math sizes for size <38.56> on input line 32.
+Package pdftex.def Info: ./figures/UVIC-UCC-v4.png  used on input line 34.
+(pdftex.def)             Requested size: 264.01688pt x 144.72641pt.
+<./figures/iris-cc-logo.png, id=19, 630.355pt x 172.645pt>
+File: ./figures/iris-cc-logo.png Graphic file (type png)
+<use ./figures/iris-cc-logo.png>
+Package pdftex.def Info: ./figures/iris-cc-logo.png  used on input line 34.
+(pdftex.def)             Requested size: 264.01688pt x 72.31018pt.
+LaTeX Font Info:    Calculating math sizes for size <38.56> on input line 34.
 LaTeX Font Info:    Trying to load font information for U+ntxsfmia on input lin
-e 32.
+e 34.
 
 (c:/texlive/2025/texmf-dist/tex/latex/newtxsf/untxsfmia.fd
 File: untxsfmia.fd 2014/11/16 Fontinst v1.933 font definitions for U/ntxsfmia.
 )
 LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
-32.
+34.
 
 (c:/texlive/2025/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/ntxsym.
 )
 LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
-32.
+34.
 
 (c:/texlive/2025/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 26.45976pt on input line 32.
+(Font)              scaled to size 26.45976pt on input line 34.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 19.93567pt on input line 32.
+(Font)              scaled to size 19.93567pt on input line 34.
 LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
-(Font)              scaled to size 36.24649pt on input line 32.
+(Font)              scaled to size 36.24649pt on input line 34.
 LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
-(Font)              scaled to size 26.45976pt on input line 32.
+(Font)              scaled to size 26.45976pt on input line 34.
 LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
-(Font)              scaled to size 19.93567pt on input line 32.
+(Font)              scaled to size 19.93567pt on input line 34.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 52.20772pt on input line 32.
+(Font)              scaled to size 52.20772pt on input line 34.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 52.20772pt on input line 32.
-LaTeX Font Info:    Calculating math sizes for size <55.54> on input line 32.
+(Font)              scaled to size 52.20772pt on input line 34.
+LaTeX Font Info:    Calculating math sizes for size <55.54> on input line 34.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 38.1114pt on input line 32.
+(Font)              scaled to size 38.1114pt on input line 34.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 28.7144pt on input line 32.
+(Font)              scaled to size 28.7144pt on input line 34.
 LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
-(Font)              scaled to size 52.20772pt on input line 32.
+(Font)              scaled to size 52.20772pt on input line 34.
 LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
-(Font)              scaled to size 38.1114pt on input line 32.
+(Font)              scaled to size 38.1114pt on input line 34.
 LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
-(Font)              scaled to size 28.7144pt on input line 32.
+(Font)              scaled to size 28.7144pt on input line 34.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 43.50331pt on input line 32.
+(Font)              scaled to size 43.50331pt on input line 34.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 43.50331pt on input line 32.
-LaTeX Font Info:    Calculating math sizes for size <46.28> on input line 32.
+(Font)              scaled to size 43.50331pt on input line 34.
+LaTeX Font Info:    Calculating math sizes for size <46.28> on input line 34.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 31.75722pt on input line 32.
+(Font)              scaled to size 31.75722pt on input line 34.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 23.92694pt on input line 32.
+(Font)              scaled to size 23.92694pt on input line 34.
 LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
-(Font)              scaled to size 43.50331pt on input line 32.
+(Font)              scaled to size 43.50331pt on input line 34.
 LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
-(Font)              scaled to size 31.75722pt on input line 32.
+(Font)              scaled to size 31.75722pt on input line 34.
 LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
-(Font)              scaled to size 23.92694pt on input line 32.
+(Font)              scaled to size 23.92694pt on input line 34.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 31.75722pt on input line 32.
+(Font)              scaled to size 31.75722pt on input line 34.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 36.24649pt on input line 32.
+(Font)              scaled to size 36.24649pt on input line 34.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 26.45976pt on input line 32.
+(Font)              scaled to size 26.45976pt on input line 34.
 LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line
- 39.
+ 40.
 
 (c:/texlive/2025/texmf-dist/tex/latex/newtx/t1ntxtlf.fd
 File: t1ntxtlf.fd 2021/05/24 v1.1 font definition file for T1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 38.56pt on input line 39.
+(Font)              scaled to size 38.56pt on input line 40.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 28.14862pt on input line 39.
+(Font)              scaled to size 28.14862pt on input line 40.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 21.20811pt on input line 39.
-<./figures/SOF_summary.jpg, id=21, 419.54973pt x 417.63106pt>
+(Font)              scaled to size 21.20811pt on input line 40.
+<./figures/SOF_summary.jpg, id=22, 419.54973pt x 417.63106pt>
 File: ./figures/SOF_summary.jpg Graphic file (type jpg)
 <use ./figures/SOF_summary.jpg>
-Package pdftex.def Info: ./figures/SOF_summary.jpg  used on input line 54.
-(pdftex.def)             Requested size: 723.8717pt x 720.64377pt.
+Package pdftex.def Info: ./figures/SOF_summary.jpg  used on input line 55.
+(pdftex.def)             Requested size: 844.88089pt x 841.11005pt.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 30.22107pt on input line 55.
-LaTeX Font Info:    Calculating math sizes for size <32.15> on input line 55.
+(Font)              scaled to size 30.22107pt on input line 56.
+LaTeX Font Info:    Calculating math sizes for size <32.15> on input line 56.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 32.15pt on input line 55.
+(Font)              scaled to size 32.15pt on input line 56.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 23.46935pt on input line 55.
+(Font)              scaled to size 23.46935pt on input line 56.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 17.68259pt on input line 55.
+(Font)              scaled to size 17.68259pt on input line 56.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 22.06123pt on input line 55.
+(Font)              scaled to size 22.06123pt on input line 56.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 16.62167pt on input line 55.
+(Font)              scaled to size 16.62167pt on input line 56.
 LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
-(Font)              scaled to size 30.22107pt on input line 55.
+(Font)              scaled to size 30.22107pt on input line 56.
 LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
-(Font)              scaled to size 22.06123pt on input line 55.
+(Font)              scaled to size 22.06123pt on input line 56.
 LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
-(Font)              scaled to size 16.62167pt on input line 55.
+(Font)              scaled to size 16.62167pt on input line 56.
 LaTeX Font Info:    Font shape `T1/qhv/m/sc' will be
-(Font)              scaled to size 36.24649pt on input line 67.
+(Font)              scaled to size 36.24649pt on input line 68.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 46.28pt on input line 86.
+(Font)              scaled to size 46.28pt on input line 88.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 33.7842pt on input line 86.
+(Font)              scaled to size 33.7842pt on input line 88.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 25.45413pt on input line 86.
-<./figures/SOF_FEEC.jpg, id=22, 420.03323pt x 386.06635pt>
+(Font)              scaled to size 25.45413pt on input line 88.
+<./figures/SOF_FEEC.jpg, id=23, 420.03323pt x 386.06635pt>
 File: ./figures/SOF_FEEC.jpg Graphic file (type jpg)
 <use ./figures/SOF_FEEC.jpg>
-Package pdftex.def Info: ./figures/SOF_FEEC.jpg  used on input line 91.
-(pdftex.def)             Requested size: 1034.10696pt x 950.55405pt.
+Package pdftex.def Info: ./figures/SOF_FEEC.jpg  used on input line 93.
+(pdftex.def)             Requested size: 1056.09709pt x 970.76569pt.
 LaTeX Font Info:    Font shape `T1/qhv/m/sc' will be
-(Font)              scaled to size 30.22107pt on input line 101.
+(Font)              scaled to size 30.22107pt on input line 106.
 LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 10
-1.
+6.
 
 (c:/texlive/2025/texmf-dist/tex/latex/inconsolata/t1zi4.fd
 File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 29.57793pt on input line 101.
+(Font)              scaled to size 29.57793pt on input line 106.
+<./figures/QR_CellReports2025.png, id=26, 411.5375pt x 411.5375pt>
+File: ./figures/QR_CellReports2025.png Graphic file (type png)
+<use ./figures/QR_CellReports2025.png>
+Package pdftex.def Info: ./figures/QR_CellReports2025.png  used on input line 1
+12.
+(pdftex.def)             Requested size: 218.33841pt x 218.3399pt.
+
+Overfull \hbox (2.84525pt too wide) in paragraph at lines 114--114
+[]  
+ []
+
 
 
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 3.76001pt on input line 102.
+(Font)              scaled to size 3.76001pt on input line 118.
+File: ./figures/UVIC-UCC-v4.png Graphic file (type png)
+<use ./figures/UVIC-UCC-v4.png>
+Package pdftex.def Info: ./figures/UVIC-UCC-v4.png  used on input line 118.
+(pdftex.def)             Requested size: 31.14165pt x 17.07182pt.
+File: ./figures/iris-cc-logo.png Graphic file (type png)
+<use ./figures/iris-cc-logo.png>
+Package pdftex.def Info: ./figures/iris-cc-logo.png  used on input line 118.
+(pdftex.def)             Requested size: 62.32742pt x 17.07182pt.
 [1
 
 {c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/
 texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{c:/texlive/2025/texmf-dist/fonts/
 enc/dvips/newtx/ntx-ec-tlf.enc}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/tex-
 gyre/q-ec-sc.enc}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-
-0.enc} <./figures/UVIC-UCC-v4.png> <./figures/SOF_summary.jpg> <./figures/SOF_F
-EEC.jpg>]
+0.enc} <./figures/UVIC-UCC-v4.png> <./figures/iris-cc-logo.png> <./figures/SOF_
+summary.jpg> <./figures/SOF_FEEC.jpg> <./figures/QR_CellReports2025.png (PNG co
+py)>]
 \tf@nav=\write7
 \openout7 = `JBI2025_FEEC.nav'.
 
@@ -1835,13 +1858,13 @@ Package logreq Info: Writing requests to 'JBI2025_FEEC.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39862 strings out of 467796
- 793766 string characters out of 5435961
- 1654451 words of memory out of 5000000
- 67755 multiletter control sequences out of 15000+600000
+ 39956 strings out of 467796
+ 796182 string characters out of 5435961
+ 1659531 words of memory out of 5000000
+ 67849 multiletter control sequences out of 15000+600000
  804483 words of font info for 231 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,11n,123p,1189b,1895s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,14n,123p,1189b,2002s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.p
 fb><c:/texlive/2025/texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb><c:/texlive
 /2025/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb><c:/texlive/2025/texmf-di
@@ -1852,10 +1875,10 @@ st/fonts/type1/public/tex-gyre/qhvri.pfb><c:/texlive/2025/texmf-dist/fonts/type
 xmf-dist/fonts/type1/public/newtxsf/zsfmi-reg.pfb><c:/texlive/2025/texmf-dist/f
 onts/type1/public/newtxsf/zsfmia-reg.pfb><c:/texlive/2025/texmf-dist/fonts/type
 1/public/newtx/ztmr.pfb>
-Output written on build/JBI2025_FEEC.pdf (1 page, 1346709 bytes).
+Output written on build/JBI2025_FEEC.pdf (1 page, 1356611 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
+ 104 PDF objects out of 1000 (max. 8388607)
  64 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 500000)
- 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
